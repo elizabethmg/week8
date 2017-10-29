@@ -1,0 +1,47 @@
+<style>
+
+body {
+    background-color: #cc99ff;
+  	font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+}
+h1 {
+    color: white;
+    text-align: center;
+    
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    
+}
+h1.dotted{
+	border-style: dotted;
+}
+
+p.solid {
+	border-style: dotted;
+}
+p.dotted {
+	border-style: dotted;
+}
+form.dotted{
+	border-style: dotted;
+}
+form{
+	font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+	color: white;
+	
+}
+
+
+
+
+
+
+</style>
